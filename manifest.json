@@ -3,9 +3,7 @@
   "author": "tomucatpc",
   "description": "ニコニコ動画のコメントをデフォルトで非表示にします。",
   "version": "1.0.0",
-  "manifest_version": 2,
-  "web_accessible_resources": ["*"],
-  "permissions": ["storage"],
+  "manifest_version": 3,
   "content_scripts": [
     {
       "matches": ["https://www.nicovideo.jp/watch/*"],
