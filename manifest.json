@@ -1,8 +1,8 @@
 {
-  "name": "niconico コメントブロッカー",
+  "name": "ニコニコ コメント自動非表示",
   "author": "twashio",
   "description": "ニコニコ動画のコメントをデフォルトで非表示にします。",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 3,
   "content_scripts": [
     {
